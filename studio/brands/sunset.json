@@ -1,0 +1,14 @@
+{
+  "id": "sunset",
+  "name": "Sunset Coffee",
+  "locale": "tr",
+  "colors": { "bg": "#FF6A3D", "bgDeep": "#9E1F45", "ink": "#FFFFFF", "accent": "#FFD23F", "dark": "#2A0A1A" },
+  "cta": "sunsetcoffee.com",
+  "ctaLead": "Hemen sipariş ver",
+  "mascot": null,
+  "bannedPhrases": ["en ucuz", "bedava"],
+  "rules": [
+    "Prices are always shown with the currency symbol.",
+    "Campaign terms are quoted exactly as written by the client."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demo",
+  "name": "Motion Plus",
+  "locale": "en",
+  "colors": {
+    "bg": "#5B2EFF",
+    "bgDeep": "#1B0B5C",
+    "ink": "#FFFFFF",
+    "accent": "#3DF5C8",
+    "dark": "#0A0820"
+  },
+  "cta": "Star the repo",
+  "ctaLead": "Try it yourself",
+  "mascot": null,
+  "bannedPhrases": [
+    "guaranteed",
+    "risk-free"
+  ],
+  "rules": [
+    "The first frame is never empty: no black intro, no white flash.",
+    "One accent color for every highlight."
+  ]
+}
