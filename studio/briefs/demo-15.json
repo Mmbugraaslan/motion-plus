@@ -1,0 +1,9 @@
+{
+  "brand": "demo",
+  "duration": 15,
+  "hook": "Write a brief get a video",
+  "offer": { "label": "Render time", "value": 15, "suffix": " sec" },
+  "points": ["Brand presets", "Word-timed captions", "Built-in quality check"],
+  "terms": "Made with Claude skills + Remotion.",
+  "useMascot": false
+}

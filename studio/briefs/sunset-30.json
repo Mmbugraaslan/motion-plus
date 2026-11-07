@@ -1,0 +1,9 @@
+{
+  "brand": "sunset",
+  "duration": 30,
+  "hook": "Hafta sonu kahve keyfi",
+  "offer": { "label": "Tüm soğuk kahvelerde", "value": 30, "prefix": "%" },
+  "points": ["Cumartesi ve pazar", "Tüm şubelerde", "Mobil siparişte de geçerli"],
+  "terms": "Kampanya 30 Kasım'a kadar geçerlidir. Diğer indirimlerle birleştirilemez.",
+  "useMascot": false
+}
