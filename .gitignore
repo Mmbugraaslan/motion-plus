@@ -2,7 +2,7 @@ node_modules/
 studio/out/
 studio/public/footage/
 studio/edits/*.json
-!studio/edits/.gitkeep
+!studio/edits/README.md
 *.16k.wav
 .DS_Store
 __pycache__/
