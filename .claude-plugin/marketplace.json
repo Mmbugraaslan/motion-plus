@@ -1,0 +1,13 @@
+{
+  "name": "motion-plus",
+  "owner": {
+    "name": "Bugra"
+  },
+  "plugins": [
+    {
+      "name": "motion-plus",
+      "source": "./",
+      "description": "Branded vertical video studio: promo reels, talking-head auto-edit, word captions, 2.5D shorts, review loop."
+    }
+  ]
+}

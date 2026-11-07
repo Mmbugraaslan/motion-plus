@@ -1,0 +1,19 @@
+{
+  "name": "motion-plus",
+  "version": "1.0.0",
+  "description": "Claude skills + a Remotion template for branded vertical videos: promo reels from a JSON brief, auto-edited talking-head clips, word-timed captions, 2.5D cartoon shorts and a built-in review loop.",
+  "author": {
+    "name": "Bugra",
+    "url": "https://github.com/Mmbugraaslan"
+  },
+  "license": "MIT",
+  "keywords": [
+    "remotion",
+    "video",
+    "reels",
+    "captions",
+    "motion-design",
+    "skills"
+  ],
+  "repository": "https://github.com/Mmbugraaslan/motion-plus"
+}
